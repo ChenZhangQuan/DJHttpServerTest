@@ -19,7 +19,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  DJHttpServerTest: 7cdca3a9fca195416898e27bef607f58368c3a1f
+  DJHttpServerTest: d67bbeb174424f0180f3ba65a8accdc2803dcdc7
   FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
 
 PODFILE CHECKSUM: cf7444d72c6a2d44ad94c34463a3d67d9d4a1248

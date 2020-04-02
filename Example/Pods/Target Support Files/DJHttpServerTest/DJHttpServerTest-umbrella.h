@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "ZQNetworkManager.h"
 
 FOUNDATION_EXPORT double DJHttpServerTestVersionNumber;
 FOUNDATION_EXPORT const unsigned char DJHttpServerTestVersionString[];

@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "summary": "A short description of DJHttpServerTest.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/379903023@qq.com/DJHttpServerTest",
+  "homepage": "https://github.com/ChenZhangQuan/DJHttpServerTest",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "379903023@qq.com": "379903023@qq.com"
   },
   "source": {
-    "git": "https://github.com/379903023@qq.com/DJHttpServerTest.git",
+    "git": "https://github.com/ChenZhangQuan/DJHttpServerTest.git",
     "tag": "0.1.0"
   },
   "platforms": {
