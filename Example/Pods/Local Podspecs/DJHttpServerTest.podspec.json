@@ -1,0 +1,22 @@
+{
+  "name": "DJHttpServerTest",
+  "version": "0.1.0",
+  "summary": "A short description of DJHttpServerTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/379903023@qq.com/DJHttpServerTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "379903023@qq.com": "379903023@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/379903023@qq.com/DJHttpServerTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DJHttpServerTest/Classes/**/*"
+}

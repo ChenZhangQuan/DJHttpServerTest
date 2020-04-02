@@ -1,0 +1,6 @@
+framework module DJHttpServerTest {
+  umbrella header "DJHttpServerTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

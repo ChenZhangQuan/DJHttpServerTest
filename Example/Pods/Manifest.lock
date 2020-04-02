@@ -1,0 +1,27 @@
+PODS:
+  - DJHttpServerTest (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - DJHttpServerTest (from `../`)
+  - FBSnapshotTestCase
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  DJHttpServerTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DJHttpServerTest: 7cdca3a9fca195416898e27bef607f58368c3a1f
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: cf7444d72c6a2d44ad94c34463a3d67d9d4a1248
+
+COCOAPODS: 1.9.1
